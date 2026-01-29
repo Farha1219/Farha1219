@@ -4,7 +4,7 @@ I have hands-on experience in Agile environments, collaborating with cross-funct
 
 💻 Tech Stack
 
-Languages & Frameworks
+1. Languages & Frameworks
 
 C#, .NET Core, ASP.NET
 
@@ -12,7 +12,7 @@ JavaScript, Angular
 
 C/C++, Python
 
-Backend & APIs
+2. Backend & APIs
 
 RESTful API development
 
@@ -20,13 +20,13 @@ MVC architecture
 
 Clean code principles
 
-Databases
+3. Databases
 
 SQL Server
 
 Query optimisation & reporting
 
-Tools & Practices
+4. Tools & Practices
 
 Git, Jira, Visual Studio
 
